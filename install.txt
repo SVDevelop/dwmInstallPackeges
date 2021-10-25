@@ -1,0 +1,1 @@
+sudo pacman -S build-essential libx11-dev libxinerama-dev sharutils suckless-tools ranger xorg xorg-server xorg-xinit xorg-xrandr xorg-xsetroot git vim sudo libxft-dev base-devel libx11 libxf
